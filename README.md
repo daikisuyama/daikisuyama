@@ -60,4 +60,6 @@ utdaiki19990122@gmail.com
 
 ## Portfolio site
 
-https://daikisuyama.github.io/
+<a href="https://daikisuyama.github.io/" target="_blank" rel="noopener">
+ Here
+</a>
