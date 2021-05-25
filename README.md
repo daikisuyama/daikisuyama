@@ -1,3 +1,5 @@
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikisuyama&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+
 
 ## アカウント
 
@@ -40,7 +42,15 @@
   <tr>
     <td>Qiita</td>
     <td><a href= "https://qiita.com/DaikiSuyama" >Daiki Suyama</a></td>
-    <td>競技プログラミングや環境構築についての記事を作成</td>
+    <td>
+      競技プログラミングや環境構築についての記事を作成<br>
+      <a href="https://qiita.com/DaikiSuyama">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/DaikiSuyama/posts.svg" />
+      </a>
+      <a href="https://qiita.com/DaikiSuyama">
+        <img height="20" src="https://qiita-badge.apiapi.app/s/DaikiSuyama/contributions.svg" />
+      </a>
+    </td>
   </tr>
 </table>
 
