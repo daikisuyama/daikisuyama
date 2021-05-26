@@ -58,7 +58,7 @@
 
 utdaiki19990122@gmail.com
 
-## Portfolio site
+## More information
 
 <a href="https://daikisuyama.github.io/" target="_blank" rel="noopener noreferrer">
  Here
