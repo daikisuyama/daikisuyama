@@ -25,6 +25,11 @@
     <td>Account for FX</td>
   </tr>
   <tr>
+    <td>Twitter</td>
+    <td><a href= "https://twitter.com/daikisuyama_MS" >Daiki Suyama@Musix</a></td>
+    <td>Account for Music</td>
+  </tr>
+  <tr>
     <td>facebook</td>
     <td><a href= "https://www.facebook.com/profile.php?id=100015783183112" >Daiki Suyama</a></td>
     <td>Main account</td>
