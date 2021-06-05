@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>Twitter</td>
-    <td><a href= "https://twitter.com/daikisuyama_MS" >Daiki Suyama@Musix</a></td>
+    <td><a href= "https://twitter.com/daikisuyama_MS" >Daiki Suyama@Music</a></td>
     <td>Account for Music</td>
   </tr>
   <tr>
