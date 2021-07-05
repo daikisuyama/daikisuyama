@@ -42,13 +42,13 @@
   <tr>
     <td>Hatena Blog</td>
     <td><a href= "https://daikisuyama.hatenablog.com/" >daikisuyamaの日記</a></td>
-    <td>Plan to write article about hobbies</td>
+    <td>Writing diary about programming </td>
   </tr>  
   <tr>
     <td>Qiita</td>
     <td><a href= "https://qiita.com/DaikiSuyama" >Daiki Suyama</a></td>
     <td>
-      Write about Competitive programming and Building environment<br>
+      Writing about Competitive programming and Building environment<br>
       <a href="https://qiita.com/DaikiSuyama">
         <img height="20" src="https://qiita-badge.apiapi.app/s/DaikiSuyama/posts.svg" />
       </a>
