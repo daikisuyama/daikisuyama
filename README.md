@@ -12,6 +12,7 @@
   <h2>Links</h2>
   <ul>
     <li><a href="https://daikisuyama.github.io">My Portfolio</a></li>
+    <li><a href="https://stackshare.io/utdaiki19990122/my-stack">My Stack</a></li>
     <li><a href="https://twitter.com/daiki_suyama">Twitter</a></li>
     <li><a href="https://note.com/daikisuyama">Note</a></li>
     <li><a href="https://daikisuyama.hatenablog.com/">Hatena Blog</a></li>
